@@ -2,14 +2,12 @@
 
 We'll guide you through creating an AI assistant using the ESP32-S3, a microphone, and a speaker. This project will capture audio, process it with AI, and respond with synthesized speech.
 
-## Demo
-![Connection Diagram](reference.png "Connection Diagram")
-
 ### Video Demonstration
-[![AI Assistant ESP32 Demo](https://img.youtube.com/vi/pYbnEi_xh0M/0.jpg)](https://www.youtube.com/watch?v=pYbnEi_xh0M)
+[![ESP32 Demo](https://img.youtube.com/vi/vT4e9VT8Mo0/0.jpg)](https://www.youtube.com/watch?v=vT4e9VT8Mo0)
 
 ## Repo:
-https://github.com/lout33/ai_assistant_esp32
+https://github.com/alcarazolabs/enviar-audio-por-websockets-a-server-nodejs-desde-esp32s3-youtube?tab=readme-ov-file
+https://github.com/lout33/ai_assistant_esp32 (original)
 
 ## Materials Needed
 
