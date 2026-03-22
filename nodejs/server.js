@@ -85,7 +85,7 @@ wsServer.on('connection', function connection(ws) {
             // Restablecer para la siguiente grabación
             isFirstChunk = true;
 
-        }, 1000); // 1 segundos de silencio para finalizar la grabación (ajustar este valor) default 500ms
+        }, 5000); // Actualizado a 5 segundos de silencio para finalizar la grabación (ajustar este valor).  Tenia 1000 pero probando detenia la recepción del audio, con 5000 va fino!.
     });
 
     ws.on('close', () => {
