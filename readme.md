@@ -14,7 +14,7 @@ https://github.com/lout33/ai_assistant_esp32 (original)
 - ESP32-S3 Devkit
 - INMP441 Microphone
 - MAX98357A Amplifier
-- 0.5W Speaker
+- 0.5W/2W/3W Speaker
 - Breadboard and Jumper Wires
 
 ## Circuit Setup
@@ -39,7 +39,7 @@ https://github.com/lout33/ai_assistant_esp32 (original)
    - Connect the speaker to the output terminals of the MAX98357A.
 
 4. **Connect the Button:**
-   - Connect one terminal to GPIO 35 and the other to GND.
+   - Connect one terminal to GPIO 13 and the other to GND.
 
 5. **Connect the RGB LED:**
    - Connect to GPIO 48.
